@@ -1,6 +1,9 @@
 Universidad Internacional del Ecuador
+
 Ingenieria en Software
+
 Nombre: Jonathan Sarango
+
 Materia: Logica de programación 
 
 JUEGO DEL AHORCADO 
