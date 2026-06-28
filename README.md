@@ -104,5 +104,5 @@ demuestra como puede solucionr problemas siempre y cuando tenga una arquitectura
 datos del usuario de igual manera los  bucles ayudan a sostener a las aplicaciones modernas a gran escala. 
 La capacidad de abstraer reglas de negocio, plasmarlas en un diagrama de flujo y traducirlas a código 
 ejecutable es lo que permite a la ingeniería de software crear herramientas que procesan información de  
-forma precisa y eficiente mejorando la forma en que los seres humanos interactuamos con las máquinas y  
-resolvemos problemas complejos.
+forma precisa y eficiente mejorando la forma en que las personas pueden interactuar con computadoras o 
+maquinas y se resuelva problemas complejos.
