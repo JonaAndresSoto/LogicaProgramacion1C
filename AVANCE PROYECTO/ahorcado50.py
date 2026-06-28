@@ -9,7 +9,6 @@ eleccion = input("Ingrese 1. Jugar o 2 Salir: ")
 
 
 if eleccion != "1":
-    # Lado "No"
     print("Gracias por jugar")
 else:
     while True:
@@ -20,11 +19,9 @@ else:
             else:
                 progreso += "_ "
         print(f"\nPalabra actual: {progreso.strip()}")
-        
-
+    
         letra_ingresada = input("Ingrese la letra: ").lower()
-        
-        
+    
         if letra_ingresada in palabra_secreta:
             letras_adivinadas.append(letra_ingresada)
             adivino_palabra = True
